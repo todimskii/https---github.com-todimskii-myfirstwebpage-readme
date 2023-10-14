@@ -1,8 +1,8 @@
 # About Me Webpage
-This is a project i am working to star my journey into software developmemt.
+This is a project i am working to start my journey into software developmemt.
 
 ## Description
-This is a personal webpage that provides information about me, Olatunji Abdejo. It includes details about my background, professional experience, hobbies, interests and projects.
+This is a personal webpage that provides information about me, Olatunji Adebajo. It includes details about my background, professional experience, hobbies, interests and projects.
 
 
 ## Motivation 
