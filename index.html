@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About Me</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
+    <script src="scripts.js"></script>
     
 
     <!-- <style>
@@ -53,6 +54,20 @@
 
         <h3>Contact Me</h3>
         <p>If you'd like to get in touch with me, feel free to send me an email at [Your Email Address]. You can also connect with me on [Your Social Media Profiles] for updates on my professional and personal journey.</p>
+    </div>
+    <div class="container">
+        <!-- ... Your existing content ... -->
+
+        <h3>Contact Me</h3>
+        <p>If you'd like to get in touch with me, feel free to send me an email:</p>
+        
+        <form id="contact-form">
+            <label for="email">Email:</label>
+            <input type="email" id="email" required>
+            <button type="submit">Send</button>
+        </form>
+
+        <div id="message"></div>
     </div>
 </body>
 </html>
